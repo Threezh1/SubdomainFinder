@@ -10,8 +10,7 @@ When collecting the netcraft part, refer to [Sublist3r](https://github.com/aboul
 
 ## Introduction
 
-Auth: Threezh1
-
+Auth: Threezh1  
 Blog: http://www.threezh1.com/
 
 - Python Version: 3.7
