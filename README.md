@@ -4,7 +4,7 @@ SubdomainFinder is a tool for collecting subdomains. It increases the range of i
 
 The reason for writing this tool is that my computer can't use Sublist3r, I don't want to spend time configuring the environment for it.
 
-Also, since I don't know enough about multithreading now, I didn't add the part of the blast subdomain, I believe I will add it in later versions.
+Also, since I don't know enough about multithreading now, I didn't add the part of the brute subdomain, I believe I will add it in later versions.
 
 When collecting the netcraft part, refer to [Sublist3r](https://github.com/aboul3la/Sublist3r). The rest is written by myself.
 
