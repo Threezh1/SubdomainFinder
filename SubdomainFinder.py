@@ -182,7 +182,7 @@ def get_domain_from_virustotal(domain):
 	print("Get domains from virustotal...")
 	part_subdomains = []
 	url = 'https://www.virustotal.com/vtapi/v2/domain/report'
-	params = {'apikey':'853d82ea6cd4ad29f1b9fdf488d2c1e6941b1ac90b2669736810021d2e63711c','domain':domain}
+	params = {'apikey':'123','domain':domain}
 	try:
 		data_raw = requests.get(url, headers = header, params = params, verify = False, timeout = 10)
 	except Exception as e:
