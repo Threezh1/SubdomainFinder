@@ -33,6 +33,10 @@ Blog: http://www.threezh1.com/
 
 PS：In the windows, it is recommended to run with cmder.
 
+## API
+
+- https://www.virustotal.com/
+
 ## Usage
 
 `usage: SubdomainFinder.py [-h] -d DOMAIN [-o] [-html]`
