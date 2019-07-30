@@ -31,6 +31,8 @@ Blog: http://www.threezh1.com/
 	- Some channels will be invalid due to network factors
 	- The speed of collection is not particularly fast
 
+PS：In the windows, it is recommended to run with cmder.
+
 ## Usage
 
 `usage: SubdomainFinder.py [-h] -d DOMAIN [-o] [-html]`
